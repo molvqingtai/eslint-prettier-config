@@ -1,7 +1,7 @@
 {
   "name": "eslint-prettier-config",
   "version": "1.0.0",
-  "description": "Eslint + Standard + Prettier+Vue config example.",
+  "description": "Eslint + Standard + Prettier config example.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --ext .js,.ts --fix"
@@ -16,7 +16,7 @@
     "prettier"
   ],
   "author": "molvqingtai",
-  "license": "MIT",
+  "license": "Anti 996",
   "bugs": {
     "url": "https://github.com/molvqingtai/eslint-prettier-config/issues"
   },
