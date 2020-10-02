@@ -5,7 +5,7 @@
 
 
 
-### Run
+## Run
 
 ```shell
 npm install && npm run lint
@@ -13,11 +13,14 @@ npm install && npm run lint
 
 
 
-### Reference
+## Reference
 
 - https://prettier.io/docs/en/comparison.html
-
 - https://prettier.io/docs/en/integrating-with-linters.html
-
 - https://eslint.org/docs/user-guide/command-line-interface
 
+
+
+## License
+
+[Anti 996](https://github.com/molvqingtai/eslint-prettier-config/blob/main/LICENSE)
